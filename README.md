@@ -1,4 +1,4 @@
-# 📊 Growth Marketing Portfolio
+# Growth Marketing Portfolio
 
 ## ✍️ Technical Writing
 - Explaining technical concepts in simple terms
